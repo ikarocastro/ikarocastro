@@ -18,3 +18,8 @@
   <a href="https://www.linkedin.com/in/ikaro-games-br-96038835b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>
+   <href= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)">
+  
+</div>
