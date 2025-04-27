@@ -1,7 +1,9 @@
 <li>💻trabalho front-end</li>
 <li>📖aprendendo Js</li>
+
 <div><h2>Linguagens🤖<h2/><div/>
-<p>Aqui está algumas linguagns que estou aprendendo!!</p>
+
+  <p>Aqui está algumas linguagns que estou aprendendo!!</p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
