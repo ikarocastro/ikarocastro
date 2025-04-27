@@ -20,7 +20,5 @@
 </div>
 
 <div>
-  <section>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikarocastro)](https://github.com/anuraghazra/github-readme-stats)
-  </section>
+  
 </div>
