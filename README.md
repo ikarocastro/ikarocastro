@@ -20,6 +20,6 @@
 </div>
 
 <div>
-   <href= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)">
+  <href> <url>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</url></href>
   
 </div>
