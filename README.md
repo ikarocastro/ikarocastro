@@ -1,5 +1,5 @@
-<li>💻trabalho front-end</li>
-<li>📖aprendendo Js</li>
+<li>💻Trabalho front-end</li>
+<li>📖Estudando Js</li>
 
 <div>
   <h2>Linguagens 🤖</h2>
