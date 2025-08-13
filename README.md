@@ -1,6 +1,6 @@
-<li>💻Trabalho front-end</li>
+<li>💻Estudando front-end</li>
 <li>📖Estudando Js</li>
-
+<li>📌Aprendendo C</li>
 <div>
   <h2>Linguagens 🤖</h2>
   <p>Aqui estão algumas linguagens que estou aprendendo!!</p>
