@@ -5,7 +5,7 @@
 <div>
   <h2>Linguagens 🤖</h2>
   <p>Aqui estão algumas linguagens que estou aprendendo e me desenvolvendo!!</p>
-  <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e de quem atuo junto!</p>
+  <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!</p>
 
   <div style="margin-bottom: 20px;">
     <br>
