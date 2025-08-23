@@ -22,7 +22,7 @@ Developer
   <h1>Ferramentas ⚒️</h1>
   <img align="center" alt="docker logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">  
   <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
+  <img align="center" alt="VScode" height="30" width="40" src="https://camo.githubusercontent.com/14d070790d115672b6c17bfe462c7c181cf7fa5f6cbb44998eba3f4358557337/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
 </div>
 <!-- Linha horizontal para separar -->
 <hr style="margin: 30px 0; border: 1px solid #ccc;">
