@@ -23,7 +23,7 @@ Developer
 <div>
   <h1>Ferramentas ⚒️</h1>
   <img align="center" alt="docker logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">  
-
+  <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 </div>
 <!-- Linha horizontal para separar -->
