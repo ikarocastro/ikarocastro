@@ -1,4 +1,4 @@
-#Developer
+Developer
 <li>💻Estudando front-end/Back-end</li>
 <li>📖Estudando Js</li>
 <li>📌Aprendendo C</li>
@@ -20,7 +20,12 @@
     <img align="center" alt="C" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
   </div>
 </div>
+<div>
+  <h1>Ferramentas ⚒️</h1>
+  <img align="center" alt="docker logo" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">  
 
+  
+</div>
 <!-- Linha horizontal para separar -->
 <hr style="margin: 30px 0; border: 1px solid #ccc;">
 
