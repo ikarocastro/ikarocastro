@@ -2,7 +2,9 @@
 <li>📖Estudando Js</li>
 <li>📌Aprendendo C</li>
 <li>⚒️Estudante em Engenharia de Software</li>
+<br>
 <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!</p>
+
 <div>
   <h2>Linguagens 🤖</h2>
   <p>Aqui estão algumas linguagens que estou aprendendo e me desenvolvendo!!</p>
