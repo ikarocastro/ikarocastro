@@ -2,7 +2,7 @@ Developer
 <li>💻Estudando front-end/Back-end</li>
 <li>📖Estudando Js</li>
 <li>📌Aprendendo C</li>
-<li>⚒️Estudante em Engenharia de Software</li>
+<li>⚒️Cursando Engenharia de Software</li>
 <br>
 <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!, visando meu futuro aprendizado em Desenvolvimento de Software</p>
 
