@@ -1,6 +1,6 @@
 Developer
 <li>💻Estudando front-end/Back-end</li>
-<li>📖Estudando Js</li>
+<li>📖Estudando Js/ Java</li>
 <li>📌Aprendendo C</li>
 <li>⚒️Cursando Engenharia de Software</li>
 <br>
