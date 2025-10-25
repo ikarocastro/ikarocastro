@@ -1,4 +1,3 @@
-Developer
 **`Developer`** 
 <li>💻Estudando front-end/Back-end</li>
 <li>📖Estudando Js / Java</li>
