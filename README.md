@@ -1,7 +1,7 @@
 **`Developer`** 
-<li>💻Estudando front-end/Back-end</li>
-<li>📖Estudando Js / Java</li>
-<li>📌Aprendendo C</li>
+<li>💻front-end/Back-end</li>
+<li>📖Estudando</li>
+<li>⌨️Dev Java</li>
 <li>⚒️Cursando Engenharia de Software</li>
 <br>
 <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!, visando meu futuro aprendizado em Desenvolvimento de Software</p>
