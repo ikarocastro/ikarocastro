@@ -3,6 +3,7 @@
 <li>📖Estudando</li>
 <li>⌨️Dev Java</li>
 <li>⚒️Cursando Engenharia de Software</li>
+<li>📩 Aberto a oportunidades de Estagio e Emprego</li>
 <br>
 <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!, visando meu futuro aprendizado em Desenvolvimento de Software</p>
 
