@@ -7,10 +7,6 @@
 <br>
 <p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!, visando meu futuro aprendizado em Desenvolvimento de Software</p>
 
-<div>
-  <h1>Linguagens 🤖</h1>
-  <p>Aqui estão algumas linguagens que estou aprendendo e me desenvolvendo!!</p>
-
   <div>
   <h1>Linguagens 🤖</h1>
   <p>Aqui estão algumas linguagens que estou aprendendo e me desenvolvendo!!</p>
