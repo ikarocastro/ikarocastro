@@ -1,11 +1,11 @@
 **`Developer`** 
 <li>💻front-end/Back-end</li>
 <li>📖Estudando</li>
-<li>⌨️Dev Java/C++ Dominantes</li>
+<li>⌨️Dev Junior Java/C++ Dominantes</li>
 <li>⚒️Cursando Engenharia de Software</li>
 <li>📩 Aberto a oportunidades de Estagio e Emprego</li>
 <br>
-<p>Buscando Desenvolvimento pessoal e profissional, Sempre visando o crescimento meu e do meu time!, visando meu futuro aprendizado em Desenvolvimento de Software</p>
+<p>Desenvolvedor Back-End com experiência em Java e C++, buscando oportunidades para aplicar meus conhecimentos em desenvolvimento de sistemas robustos e eficientes, contribuindo com soluções de qualidade e continuando meu crescimento técnico na área.</p>
 
   <div>
   <h1>Linguagens 🤖</h1>
