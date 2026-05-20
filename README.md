@@ -13,12 +13,12 @@
 
   <table>
     <tr>
+      <td><img alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
+      <td><img alt= "C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></td>
+      <td><img alt="Java" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></td>
       <td><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
       <td><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
       <td><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-      <td><img alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
-      <td><img alt="Java" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></td>
-      <td><img alt= "C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></td>
     </tr>
   </table>
 </div>
