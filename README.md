@@ -24,7 +24,7 @@
 </div>
 
 <div>
-  <h1>Ferramentas ⚒️</h1>
+  <h1>Ferramentas/Frameworks ⚒️</h1>
 
   <table>
     <tr>
