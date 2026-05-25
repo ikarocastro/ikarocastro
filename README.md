@@ -9,7 +9,6 @@
 
   <div>
   <h1>Linguagens 🤖</h1>
-  <p>Aqui estão algumas linguagens que estou aprendendo e me desenvolvendo!!</p>
 
   <table>
     <tr>
