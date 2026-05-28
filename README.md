@@ -1,6 +1,5 @@
 **`Developer`** 
-<li>💻front-end/Back-end</li>
-<li>📖Estudando</li>
+<li>💻Full-Stack Developer</li>
 <li>⌨️Dev Junior Java/C++ Dominantes</li>
 <li>⚒️Cursando Engenharia de Software</li>
 <li>📩 Aberto a oportunidades de Estagio e Emprego</li>
