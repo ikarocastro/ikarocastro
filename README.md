@@ -1,6 +1,6 @@
 **`Developer`** 
 
-
+![Banner](./ikaro-banner_1.png)
 <li>💻Full-Stack Developer</li>
 <li>⌨️Dev Junior Java/C++ Dominantes</li>
 <li>⚒️Cursando Engenharia de Software</li>
