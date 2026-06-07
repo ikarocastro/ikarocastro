@@ -1,5 +1,5 @@
 **`Developer`** 
-![Banner](./ikaro-banner.svg)
+![Banner](https://raw.githubusercontent.com/IkadoDev/IkadoDev/main/ikaro-banner.svg)
 <li>💻Full-Stack Developer</li>
 <li>⌨️Dev Junior Java/C++ Dominantes</li>
 <li>⚒️Cursando Engenharia de Software</li>
