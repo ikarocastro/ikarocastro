@@ -6,7 +6,7 @@
 <li>⚒️Cursando Engenharia de Software</li>
 <li>📩 Aberto a oportunidades de Estagio e Emprego</li>
 <br>
-<p>Desenvolvedor Back-End com experiência em Java e C++, buscando oportunidades para aplicar meus conhecimentos em desenvolvimento de sistemas robustos e eficientes, contribuindo com soluções de qualidade e continuando meu crescimento técnico na área.</p>
+<p>Desenvolvedor Back-End com experiência em Java (Spring Boot, Maven, lombok, SpringMVC/REST, OpenAPI / Swagger) e C++ (GCC / Clang).</p>
 
   <div>
   <h1>Linguagens 🤖</h1>
